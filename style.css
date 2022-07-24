@@ -75,6 +75,7 @@ nav {
 
     #div-for-backgroud-image {
         left: 5%;
+        bottom: 2%;
         height: 30%;
         width: 30%;
         background-image: url("./pictures/background-image-4.svg");
